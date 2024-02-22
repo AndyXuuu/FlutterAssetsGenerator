@@ -1,0 +1,2 @@
+# FlutterAssetsGenerator
+Flutter Assets Generator
